@@ -15,7 +15,7 @@
                                     NETWORK HASH RATE)^2,
                                     (COST PER KWH,
                                     MAINTENANCE COSTS)^3 
-                                )**
+                                ) **
 
 ## Why This Matters:
 Hive is a publicly traded company because they give the shareholders the opportunity to access the profit margins from mining. The capital markets have very little options for an investor to participate in the blockchain sector and Hive provides the shareholders an amazing way to get exposure to the cryto world. They were the first blockchain company to list their stock on the Toronto Stock Exchange Venture (TSX-V) and it was a key component of their overall strategy. Some of their  main competitors include: Riot Blockchain Inc, Hut & Mining Corp and Marathon Patent Group Inc. All these companies including Hive incorporate almost $400 million USD in market capitalization.
